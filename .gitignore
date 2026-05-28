@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+streamlit.err.log
+streamlit.out.log
+*.log
+Miniconda*.exe
